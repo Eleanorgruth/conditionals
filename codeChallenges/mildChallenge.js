@@ -4,4 +4,8 @@
 // The program should print out the String "even" if the Number is even,
 // and the String "odd" if the Number is odd.
 var testScore = 98
-if (testScore)
+if (testScore % 2 === 0){
+  console.log(`even`);
+} else {
+  console.log(`odd`);
+}
