@@ -1,6 +1,6 @@
 # Code Challenges
 
-Below are 3 code challenges, increasing in complexity. You are required to complete 1 (of your choice) and encouraged to complete 2. If you are ahead on your schedule and have the time, you can absolutely complete all 3! For each challenge you want to work on, create a new Ruby file inside this `codeChallenges` directory and choose a name that makes sense.
+Below are 3 code challenges, increasing in complexity. You are required to complete 1 (of your choice) and encouraged to complete 2. If you are ahead on your schedule and have the time, you can absolutely complete all 3! For each challenge you want to work on, create a new JavaScript file inside this `codeChallenges` directory and choose a name that makes sense.
 
 After completing your selected challenge(s), create a short video to share with your Slack small group as part of your deliverable for this lesson. The video should include:
 - You presenting the challenge itself
