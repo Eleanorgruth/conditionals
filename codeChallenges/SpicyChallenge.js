@@ -1,11 +1,9 @@
 goodDrivingRecord = false
-isOver25 = true
-if (goodDrivingRecord === true && isOver25 === true){
+isOver25 = false
+if (goodDrivingRecord && isOver25){
   console.log(`discount applied`);
-}
-else if (goodDrivingRecord === false && isOver25 === false){
+}else if (!goodDrivingRecord && !isOver25){
   console.log(`someone else needs to sign for the rental`);
-}
-else {
+} else {
   console.log(`full price`);
 }
